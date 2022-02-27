@@ -1,6 +1,9 @@
 ## Estudos
 Repositório criado para expor o meu progresso como futuro Cientista de Dados.
 
+*Formação Acadêmica:*
+- Ciencias Econômicas, _UEFS ( 2026 )_
+
 *Cursos em andamento:*
 - Power BI _( Data Science Academy )_
 - Bootcamp Cognizant Cloud Data Engineer _( DIO )_
